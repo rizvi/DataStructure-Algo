@@ -17,8 +17,8 @@ package com.rizvi.searching.interpolation;
 public class MyInterpolationSearch {
 
 	public static void main(String[] args) {
-		DataSet data = new DataSet(1_000_000);
-		int search = 999_999;
+		DataSet data = new DataSet(1000000);
+		int search = 999999;
 		Boolean isFound = false;
 
 		int low = 0;
