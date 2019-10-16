@@ -9,7 +9,7 @@ package com.rizvi.searching.linear;
 public class MyLinearSearch {
 
 	public static void main(String[] args) {
-		DataSet data = new DataSet(1_000_000);
+		DataSet data = new DataSet(1000000);
 		int search = 700;
 		Boolean isFound = false;
 
