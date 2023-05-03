@@ -1,6 +1,8 @@
 # DataStructure-Algo
 
 #APRIORI Algorithm Output:
+
+<pre>
 Enter the minimum support (as an integer value):
 1
 Transaction Number: 1:
@@ -115,4 +117,4 @@ Item number 2 = 5
 
 Process finished with exit code 0
 
-
+</pre>
