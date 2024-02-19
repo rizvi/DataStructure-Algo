@@ -1,7 +1,5 @@
 package com.rizvi.datastructure;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 import java.util.Scanner;
 
 /**
